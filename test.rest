@@ -1,0 +1,9 @@
+POST https://3000-e9dda90c-4f62-40cf-a461-f3b28f6987ff.ws-us02.gitpod.io/send HTTP/1.1
+Content-Type: application/json
+
+{
+	"name":"Harsh",
+	"email":"electronlabsdev@gmail.com",
+	"subject":"IDK",
+	"message":"I dont knoe ehat jshfuhsufhsefiesjl"
+}
